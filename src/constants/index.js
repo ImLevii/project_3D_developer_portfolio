@@ -42,22 +42,24 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Web Developer",
+    title: "⇋MG⇌ ESPORTS INSPIRING THE NEXT GENERATION OF GAMERS",
     icon: web,
   },
   {
-    title: "React Native Developer",
+    title: "PROVIDING THE ULTIMATE GAMING SUPPORT STRUCTURE",
     icon: mobile,
   },
   {
-    title: "Backend Developer",
+    title: "CONCEPT. CREATE. DELIVER.",
     icon: backend,
   },
   {
-    title: "Content Creator",
+    title: "WE ARE INCLUSIVE NOT EXCLUSIVE",
     icon: creator,
+    
   },
 ];
+
 
 const technologies = [
   {

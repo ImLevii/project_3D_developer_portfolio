@@ -40,18 +40,19 @@ const About = () => {
     <>
       <motion.div variants={textVariant()}>
         <p className={styles.sectionSubText}>Introduction</p>
-        <h2 className={styles.sectionHeadText}>Overview.</h2>
+        <h2 className={styles.sectionHeadText}>WHO WE ARE</h2>
       </motion.div>
 
       <motion.p
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a skilled software developer with experience in TypeScript and
-        JavaScript, and expertise in frameworks like React, Node.js, and
-        Three.js. I'm a quick learner and collaborate closely with clients to
-        create efficient, scalable, and user-friendly solutions that solve
-        real-world problems. Let's work together to bring your ideas to life!
+      The =MG= Gaming Community was founded in mid 2018. 
+      =MG= was created as a fun, laid back gaming environment 
+      to give gamer's for any game a place to call home and be able to 
+      help expand the community to others around the world. 
+      If you are looking to learn more about Meteor Gaming please feel free to message or join our 
+      Discord Server and speak with one of our staff members for more in depth history.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
